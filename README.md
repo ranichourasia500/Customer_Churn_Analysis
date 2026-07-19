@@ -81,17 +81,17 @@ into action items.
 
 <h3>Executive Overview</h3>
 <p align="center">
-  <img src="screenshots/Executive Overview.png" width="1000">
+  <img src="Screenshots/Executive Overview.png" width="1000">
 </p>
 
 <h3>Risk Segmentation</h3>
 <p align="center">
-  <img src="screenshots/Risk Segmentation.png" width="1000">
+  <img src="Screenshots/Risk Segmentation.png" width="1000">
 </p>
 
 <h3>Revenue Impact</h3>
 <p align="center">
-  <img src="screenshots/Revenue impact.png" width="1000">
+  <img src="Screenshots/Revenue impact.png" width="1000">
 </p>
 
 ---
