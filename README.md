@@ -91,7 +91,7 @@ into action items.
 
 <h3>Revenue Impact</h3>
 <p align="center">
-  <img src="Screenshots/Revenue impact.png" width="1000">
+  <img src="Screenshots/Revenue Impact.png" width="1000">
 </p>
 
 ---
