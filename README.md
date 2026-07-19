@@ -55,9 +55,9 @@ customer-churn-analysis/
 ├── powerbi/
 │   └── churn_dashboard.pbix
 └── screenshots/
-    ├── page1_executive_overview.png
-    ├── page2_risk_segmentation.png
-    └── page3_revenue_impact.png
+    ├── page1_Executive Overview.png
+    ├── page2_Risk Segmentation.png
+    └── page3_Revenue Impact.png
 ```
 
 ---
@@ -77,7 +77,22 @@ still-active, month-to-month customers).
 churn by tenure bucket, and a set of retention recommendations translated
 into action items.
 
-*(Add your own screenshots to `/screenshots` once you export them from Power BI Service.)*
+<h2>Dashboard Preview</h2>
+
+<h3>Executive Overview</h3>
+<p align="center">
+  <img src="screenshots/Executive Overview.png" width="1000">
+</p>
+
+<h3>Risk Segmentation</h3>
+<p align="center">
+  <img src="screenshots/Risk Segmentation.png" width="1000">
+</p>
+
+<h3>Revenue Impact</h3>
+<p align="center">
+  <img src="screenshots/Revenue impact.png" width="1000">
+</p>
 
 ---
 
